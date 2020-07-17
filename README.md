@@ -1,4 +1,6 @@
 # fabric-sdk-demo
+[](https://img.shields.io/github/downloads/newonexd/fabric-sdk-demo/total)
+
 
 Hyperledger Fabric Java SDK 简单调用
 
